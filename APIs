@@ -1,0 +1,1 @@
+Created a CRUD RESTFul APIs for a Simple Employee Management System using Spring Boot 2 JPA and PostgreSQL database. Following are five REST APIs (Controller handler methods) are created for Employee resource.
