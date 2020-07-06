@@ -1,1 +1,21 @@
 Created a CRUD RESTFul APIs for a Simple Employee Management System using Spring Boot 2 JPA and PostgreSQL database. Following are five REST APIs (Controller handler methods) are created for Employee resource.
+
+
+Sr. No.             API Name              HTTP Method                Path                                   Status Code                    Description
+
+(1)              GET Employees                GET                /api/v1/employees                           200 (OK)                   All Employee resources are fetched.
+
+(2)              POST Employees               POST               /ap1/v1/employees                           201 (Created)              A new Employee resource is created.
+
+(3)              GET Employee                 GET                /api/v1/employees/{id}                      200 (OK)                   One Employee resource is fetched.
+ 
+(4)              PUT Employee                 PUT                /api/v1/employees/{id}                      200 (OK)                   Employee resource is updated.
+
+(5)              DELETE Employee              DELETE             /api/v1/employees/(id)                      204 (No Content)           Employee resource is deleted.
+
+
+
+
+
+
+
